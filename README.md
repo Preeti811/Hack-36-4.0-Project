@@ -1,5 +1,5 @@
 # Hack36 Template Readme
-![image](https://user-images.githubusercontent.com/76868468/176041710-af94aa99-6bb5-4c86-a7c9-130be32f8a80.png)
+[![image](https://user-images.githubusercontent.com/76868468/176041710-af94aa99-6bb5-4c86-a7c9-130be32f8a80.png)](https://hack36-21.devfolio.co)
 
 
 ## Introduction:
@@ -21,5 +21,5 @@ Team Name: CODDESS
 - [Surabhi Purwar](https://github.com/surabhi001)
 - [Priya Pachauri](https://github.com/Priyapac261)
 ### Made at:
-![image](https://user-images.githubusercontent.com/76868468/176041765-3c75550f-3f98-4e6a-ada8-6349aad0ba2d.png)
+[![image](https://user-images.githubusercontent.com/76868468/176041765-3c75550f-3f98-4e6a-ada8-6349aad0ba2d.png)](https://hack36-21.devfolio.co)
 
